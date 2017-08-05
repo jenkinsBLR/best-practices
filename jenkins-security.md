@@ -20,3 +20,6 @@ Chef cookbook to setup a secure Jenkins install
 
 https://github.com/dev-sec/chef-jenkins-hardening
 
+Cloudbees Presentation
+
+https://www.slideshare.net/cloudbees/securing-jenkins
